@@ -1,3 +1,19 @@
+/**Info*********************************
+ * Title--------------------------------
+ * mother.js -v1.0
+ * Bitburner -v3.0.1
+ * 
+ * Description--------------------------
+ * This is version 1 of my main mother script.
+ *
+ * EDITS--------------------------------
+ * 07/26/2025
+ * Added info
+ * 
+ * Writers------------------------------
+ * Google Gemini - 07/26/2026
+ * Thenosis - 07/26/2026
+ */
 /** @param {NS} ns */
 export async function main(ns) {
  
