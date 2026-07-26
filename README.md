@@ -1,5 +1,5 @@
 # Bitburner-scripts
-This is a repo for the scripts used in the game Bitburner.
+This is a repo for the scripts used in the game Bitburner. v3.0.1
 
 # Don't be alarmed!
 Bitburner is a free idle game on Steam. Here's the link https://store.steampowered.com/app/1812820/Bitburner/.<br>
